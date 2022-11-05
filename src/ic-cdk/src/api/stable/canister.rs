@@ -1,4 +1,4 @@
-use super::*;
+use super::{StableMemory, StableMemoryError};
 
 /// A standard implementation of [`StableMemory`].
 ///
